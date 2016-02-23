@@ -1,0 +1,74 @@
+Repository name:
+
+Project/Engine name:
+
+Namespace(s):
+
+Libs:
+- GLEW
+- GLUT
+
+Window/Input handling:
+- Win32
+- Xlib
+- SDL/SDL2
+- SFML
+-
+
+Support:
+- Cross-platform (Windows/Linux)?
+- 2D only
+- Opengl only
+- Shaders
+- Light/shadows? (Not needed?)
+- Physics (Collisions, movement,....)
+- 
+
+Interfaces to user:
+- Create entity???
+- Create Components???
+- Abstract logic, add to components???
+- Update entity/components
+- Deactivate/Activate
+- Load textures/Shaders (Use defaults shaders?)
+- Layer / Order
+- Particle Systems
+- Add Shaders?
+- Sound/Music
+- Create map from file?
+- Add/Read scripts/logic?
+- Logic for events?
+
+Auto:
+- Draw
+- Update, physics etc
+- Allocations/Deallocations?
+- Load/Save to files
+- "Sprite batches"
+- "Meshes"
+- Layers???
+- Draw order / sorting
+- Threads
+- Create/Load Maps? from files
+- Read scripts?
+- Quadtree
+- Events
+- Logs/Error handling?
+- Light/Shadows?
+
+****
+Easy to use...
+Support many many "objects" :)
+GREAT PERFORMANCE :)
+Cache-friendly
+Scripts support? (Lua/Python)
+Event-driven
+Threads
+Entity/Component somehow?
+Data oriented design somehow?
+Quadtree
+Particle systems
+
+
+
+
